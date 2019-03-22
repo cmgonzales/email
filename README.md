@@ -1,2 +1,2 @@
 # Securly email 
-using tables and inline CSS. Email standards
+using tables and inline CSS. compatible with any email domains
