@@ -1,3 +1,3 @@
 # Securly email 
-using html tables and inline CSS. compatible with any email domain. 
+using html tables and inline CSS. Verified by email. 
 marketing email
